@@ -1,0 +1,24 @@
+.not-found-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.not-found-img-note-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.not-found-img {
+  width: 30%;
+}
+
+.not-found-heading {
+  color: #183b56;
+}
+
+.not-found-note {
+  color: #5a7184;
+}

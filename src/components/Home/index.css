@@ -1,0 +1,37 @@
+.home-container {
+  background-color: #152850;
+  height: 100vh;
+  padding: 70px;
+  color: #ffffff;
+}
+
+.logo-logout-btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logout-btn {
+  padding: 10px 24px;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+.digital-card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.card-heading {
+  font-size: 40px;
+}
+
+.digital-card {
+  width: 40%;
+}
